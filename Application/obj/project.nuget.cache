@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ik1rgttrVFGgxh2tTxtwHKRBs6Kr4cOUUl3YuF13KlsNgc80/QDiWs6Mqp5WNgVDyopjVJzPbtT4CiGiXzp7vA==",
+  "dgSpecHash": "USWm5FnAqK2tit7yL/xg1VmBPQP9AFxUCHM/X4pjcttZ1l6mB0gFXZztzuB+4wIQGJz6mfcVRAtl2KSioZM3mQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Baristop\\Desktop\\moist\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Baristop\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Baristop\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Baristop\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Baristop\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Baristop\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\Baristop\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Baristop\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
     "C:\\Users\\Baristop\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
     "C:\\Users\\Baristop\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
